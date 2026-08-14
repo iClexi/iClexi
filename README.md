@@ -17,13 +17,13 @@
 ```text
 root@iclexi:~$ ./whoami
 
-ROLE      Cybersecurity student + systems builder
-FOCUS     Network security / infrastructure / AppSec
-SYSTEMS   Linux / Windows Server / Proxmox
-NETWORK   Fortinet / Cisco / VPN engineering
-METHOD    Build -> Test -> Harden -> Document
+ROLE      Cybersecurity student
+FOCUS     NetSec / Infra / AppSec
+SYSTEMS   Linux / Windows / PVE
+NETWORK   Fortinet / Cisco / VPN
+METHOD    Build -> Test -> Harden
 BASE      Dominican Republic
-STATUS    Open to junior roles and internships
+STATUS    Open to work
 ```
 
 I build and document practical systems across **network security, self-hosted infrastructure and full-stack software**. I care about evidence, clear architecture and making security part of the build--not an afterthought.
