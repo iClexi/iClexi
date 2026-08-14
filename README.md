@@ -12,10 +12,6 @@
 
 <img width="100%" alt="" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<table>
-<tr>
-<td width="61%" valign="top">
-
 ## `// OPERATOR`
 
 ```text
@@ -23,7 +19,8 @@ root@iclexi:~$ ./whoami
 
 ROLE      Cybersecurity student + systems builder
 FOCUS     Network security / infrastructure / AppSec
-ENV       Linux / Windows Server / Proxmox / Fortinet / Cisco
+SYSTEMS   Linux / Windows Server / Proxmox
+NETWORK   Fortinet / Cisco / VPN engineering
 METHOD    Build -> Test -> Harden -> Document
 BASE      Dominican Republic
 STATUS    Open to junior roles and internships
@@ -31,22 +28,15 @@ STATUS    Open to junior roles and internships
 
 I build and document practical systems across **network security, self-hosted infrastructure and full-stack software**. I care about evidence, clear architecture and making security part of the build--not an afterthought.
 
-</td>
-<td width="39%" align="center" valign="middle">
+<div align="center">
 
-<img width="300" alt="Animated scrolling source code" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" />
+<img width="420" alt="Animated scrolling source code" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" />
 
-</td>
-</tr>
-</table>
+</div>
 
 ## `// SELECTED BUILDS`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `01` [AgroD](https://github.com/iClexi/AgroD)
+### `01 //` [AgroD](https://github.com/iClexi/AgroD)
 
 Full-stack AgroTech prototype for farm, crop and device workflows, with owner-scoped data, hardened sessions, Docker and automated checks.
 
@@ -55,10 +45,7 @@ Full-stack AgroTech prototype for farm, crop and device workflows, with owner-sc
 [![Live demo](https://img.shields.io/badge/LIVE_DEMO-AGROD-00ff9c?style=flat-square&logo=vercel&logoColor=020617)](https://agrod.iclexi.tech)
 [![Repository](https://img.shields.io/badge/SOURCE-GITHUB-30363d?style=flat-square&logo=github&logoColor=white)](https://github.com/iClexi/AgroD)
 
-</td>
-<td width="50%" valign="top">
-
-### `02` [RitmoHub](https://github.com/iClexi/ritmohub)
+### `02 //` [RitmoHub](https://github.com/iClexi/ritmohub)
 
 Self-hosted music community built with Next.js and PostgreSQL, covering profiles, forums, events, courses, OAuth and Stripe checkout.
 
@@ -67,12 +54,7 @@ Self-hosted music community built with Next.js and PostgreSQL, covering profiles
 [![Live demo](https://img.shields.io/badge/LIVE_DEMO-RITMOHUB-22d3ee?style=flat-square&logo=vercel&logoColor=020617)](https://ritmohub.iclexi.tech)
 [![Repository](https://img.shields.io/badge/SOURCE-GITHUB-30363d?style=flat-square&logo=github&logoColor=white)](https://github.com/iClexi/ritmohub)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### `03` [Proxmox Infrastructure](https://github.com/iClexi/Proxmox)
+### `03 //` [Proxmox Infrastructure](https://github.com/iClexi/Proxmox)
 
 Sanitized infrastructure inventory, service publication and security review for a multi-service Proxmox/Linux homelab.
 
@@ -80,10 +62,7 @@ Sanitized infrastructure inventory, service publication and security review for 
 
 [![Repository](https://img.shields.io/badge/VIEW_LAB-PROXMOX-E57000?style=flat-square&logo=proxmox&logoColor=white)](https://github.com/iClexi/Proxmox)
 
-</td>
-<td width="50%" valign="top">
-
-### `04` [FortiGate Corporate Security](https://github.com/iClexi/Fortigate-Corporate-Policies)
+### `04 //` [FortiGate Corporate Security](https://github.com/iClexi/Fortigate-Corporate-Policies)
 
 Evidence-backed FortiGate lab covering segmentation, web/app/DNS filtering, anomaly detection and WAF validation.
 
@@ -91,20 +70,7 @@ Evidence-backed FortiGate lab covering segmentation, web/app/DNS filtering, anom
 
 [![Repository](https://img.shields.io/badge/VIEW_LAB-FORTIGATE-EE3124?style=flat-square&logo=fortinet&logoColor=white)](https://github.com/iClexi/Fortigate-Corporate-Policies)
 
-</td>
-</tr>
-</table>
-
 <img width="100%" alt="" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-<table>
-<tr>
-<td width="48%" align="center" valign="middle">
-
-<img width="430" alt="Animated multi-screen engineering workspace" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" />
-
-</td>
-<td width="52%" valign="top">
 
 ## `// TOOLBOX`
 
@@ -121,11 +87,19 @@ Evidence-backed FortiGate lab covering segmentation, web/app/DNS filtering, anom
 
 </div>
 
+ - **Security & networking:** FortiGate, Cisco IOS, IPsec/IKEv2, DMVPN, Wazuh
+ - **Systems & platforms:** Linux, Windows Server, Proxmox VE, Docker, Cloudflare
+ - **Build & automation:** Python, TypeScript, Shell, Ansible, Terraform
+
 **Training:** Cisco CCNA 1 / 2 / 3 | Cisco Ethical Hacker | Huawei HCIA Datacom
 
-</td>
-</tr>
-</table>
+<div align="center">
+
+<br/>
+
+<img width="680" alt="Animated multi-screen engineering workspace" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" />
+
+</div>
 
 <div align="center">
 
