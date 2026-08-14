@@ -14,25 +14,13 @@
 
 ## `// OPERATOR`
 
-```
-root@iclexi:~$ ./whoami
-
-ROLE      Cybersecurity student
-FOCUS     NetSec / Infra / AppSec
-SYSTEMS   Linux / Windows / PVE
-NETWORK   Fortinet / Cisco / VPN
-METHOD    Build -> Test -> Harden
-BASE      Dominican Republic
-STATUS    Open to work
-```
-
-I build and document practical systems across **network security, self-hosted infrastructure and full-stack software**. I care about evidence, clear architecture and making security part of the build--not an afterthought.
-
 <div align="center">
 
-<img width="420" alt="Animated scrolling source code" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" />
+<img width="100%" alt="Animated terminal introducing Michael Robles from the Dominican Republic, focused on cybersecurity, infrastructure and AppSec, working with Linux, Windows Server, Proxmox, Fortinet and Cisco, and open to junior roles and internships" src="./assets/operator-terminal.gif" />
 
 </div>
+
+I build and document practical systems across **network security, self-hosted infrastructure and full-stack software**. I care about evidence, clear architecture and making security part of the build--not an afterthought.
 
 ## `// SELECTED BUILDS`
 
