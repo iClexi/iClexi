@@ -10,7 +10,7 @@
 
 </div>
 
-<img width="100%" alt="Animated gradient divider" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<img width="100%" height="4" alt="Animated rainbow gradient divider" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
 ## `// OPERATOR`
 
@@ -70,13 +70,13 @@ Evidence-backed FortiGate lab covering segmentation, web/app/DNS filtering, anom
 
 [![Repository](https://img.shields.io/badge/VIEW_LAB-FORTIGATE-EE3124?style=flat-square&logo=fortinet&logoColor=white)](https://github.com/iClexi/Fortigate-Corporate-Policies)
 
-<img width="100%" alt="Animated gradient divider" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<img width="100%" height="4" alt="Animated rainbow gradient divider" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
 ## `// TOOLBOX`
 
 <div align="center">
 
-<img alt="Linux, Docker, Git, GitHub, Windows, TypeScript, Next.js and PostgreSQL" src="https://skillicons.dev/icons?i=linux,docker,git,github,windows,ts,nextjs,postgres&perline=4" />
+<img alt="Linux, Windows, Docker, Python, TypeScript, Next.js, PostgreSQL, Terraform, Ansible, Bash, Git and GitHub" src="https://skillicons.dev/icons?i=linux,windows,docker,python,ts,nextjs,postgres,terraform,ansible,bash,git,github&perline=6" />
 
 <br/><br/>
 
@@ -97,7 +97,7 @@ Evidence-backed FortiGate lab covering segmentation, web/app/DNS filtering, anom
 
 <br/>
 
-<img width="680" alt="Animated multi-screen engineering workspace" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" />
+<img width="520" alt="Animated ASCII matrix rain" src="https://raw.githubusercontent.com/huytieu/ascii-og/29e0e4badd53ab578b595852a7a829f9162a6f7e/assets/gif/matrix.gif" />
 
 </div>
 
@@ -111,7 +111,7 @@ I am looking for a junior cybersecurity, infrastructure or systems opportunity w
 
 <br/>
 
-<sub>Animated visuals sourced from <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">Cool GIFs for GitHub</a> (MIT).</sub>
+<sub>Motion assets: <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">Cool GIFs for GitHub</a> + <a href="https://github.com/huytieu/ascii-og">ascii-og</a> (MIT).</sub>
 
 <img width="100%" alt="Animated green terminal footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:064e3b,100:020617&height=120&section=footer" />
 
