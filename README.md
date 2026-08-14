@@ -10,11 +10,11 @@
 
 </div>
 
-<img width="100%" alt="" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<img width="100%" alt="Animated gradient divider" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## `// OPERATOR`
 
-```text
+```
 root@iclexi:~$ ./whoami
 
 ROLE      Cybersecurity student
@@ -70,7 +70,7 @@ Evidence-backed FortiGate lab covering segmentation, web/app/DNS filtering, anom
 
 [![Repository](https://img.shields.io/badge/VIEW_LAB-FORTIGATE-EE3124?style=flat-square&logo=fortinet&logoColor=white)](https://github.com/iClexi/Fortigate-Corporate-Policies)
 
-<img width="100%" alt="" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<img width="100%" alt="Animated gradient divider" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## `// TOOLBOX`
 
@@ -113,6 +113,6 @@ I am looking for a junior cybersecurity, infrastructure or systems opportunity w
 
 <sub>Animated visuals sourced from <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">Cool GIFs for GitHub</a> (MIT).</sub>
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:064e3b,100:020617&height=120&section=footer" />
+<img width="100%" alt="Animated green terminal footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:064e3b,100:020617&height=120&section=footer" />
 
 </div>
