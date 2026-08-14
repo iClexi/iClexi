@@ -18,12 +18,13 @@ My work emphasizes **reproducible implementations, clear technical evidence and 
 
 ## `./selected-work`
 
-| Project | What it demonstrates |
-|---|---|
-| [**AgroD**](https://github.com/iClexi/AgroD) / [live](https://agrod.iclexi.tech) | Full-stack AgroTech prototype for farm, crop and device workflows, with owner-scoped data, hardened sessions, Docker and automated checks. `Next.js` `TypeScript` `SQLite` |
-| [**RitmoHub**](https://github.com/iClexi/ritmohub) / [live](https://ritmohub.iclexi.tech) | Self-hosted music community built with Next.js and PostgreSQL, covering profiles, forums, events, courses, OAuth and Stripe checkout. `Next.js` `PostgreSQL` `Sentry` |
-| [**Proxmox Homelab Infrastructure**](https://github.com/iClexi/Proxmox) | Sanitized infrastructure inventory, service publication and security review for a multi-service Proxmox/Linux homelab. `Proxmox VE` `pfSense` `Wazuh` `Cloudflare` |
-| [**FortiGate Corporate Security**](https://github.com/iClexi/Fortigate-Corporate-Policies) | Evidence-backed FortiGate lab covering segmentation, web/app/DNS filtering, anomaly detection and WAF validation. `FortiGate` `WAF` `Network Security` |
+- **[AgroD](https://github.com/iClexi/AgroD) / [live](https://agrod.iclexi.tech)** - Full-stack AgroTech prototype for farm, crop and device workflows, with owner-scoped data, hardened sessions, Docker and automated checks. `Next.js` `TypeScript` `SQLite`
+
+- **[RitmoHub](https://github.com/iClexi/ritmohub) / [live](https://ritmohub.iclexi.tech)** - Self-hosted music community built with Next.js and PostgreSQL, covering profiles, forums, events, courses, OAuth and Stripe checkout. `Next.js` `PostgreSQL` `Sentry`
+
+- **[Proxmox Homelab Infrastructure](https://github.com/iClexi/Proxmox)** - Sanitized infrastructure inventory, service publication and security review for a multi-service Proxmox/Linux homelab. `Proxmox VE` `pfSense` `Wazuh` `Cloudflare`
+
+- **[FortiGate Corporate Security](https://github.com/iClexi/Fortigate-Corporate-Policies)** - Evidence-backed FortiGate lab covering segmentation, web/app/DNS filtering, anomaly detection and WAF validation. `FortiGate` `WAF` `Network Security`
 
 ## `./toolbox --short`
 
@@ -37,7 +38,7 @@ My work emphasizes **reproducible implementations, clear technical evidence and 
 
 ## `./connect`
 
-For cybersecurity, networking, infrastructure or automation work: **[explore my portfolio and contact me at iclexi.tech ->](https://iclexi.tech)**
+For cybersecurity, networking, infrastructure or automation work: **[explore my portfolio and get in touch](https://iclexi.tech)**.
 
 ---
 
